@@ -1,0 +1,217 @@
+﻿#EXTM3U
+# 来源: GitHub akiralereal/iptv (IPTV.m3u + IPTV-overseas.m3u + from-the-web.m3u)
+# 整理: 2026-10-29, 去重后频道数: 107
+#EXTINF:-1 group-title="婀栧崡鍗4K",婀栧崡鍗4K
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 group-title="娴欐睙鍗4K",娴欐睙鍗4K
+http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+#EXTINF:-1 group-title="绾潵浣撹偛",绾潵浣撹偛
+https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1786948372&sign=2e4a56b89fe644db147552011f972714
+#EXTINF:-1 group-title="",
+http://211.72.174.95:8116/0.ts
+#EXTINF:-1 group-title="姘戣楂樻竻",姘戣楂樻竻
+http://211.72.174.95:8115/0.ts
+#EXTINF:-1 group-title="鍙拌楂樻竻",鍙拌楂樻竻
+http://211.72.174.95:8112/0.ts
+#EXTINF:-1 group-title="TVBS浜氭床",TVBS浜氭床
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="Pet Club TV",Pet Club TV
+https://petclub-samsungaus.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="WildEarth",WildEarth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 group-title="Love Nature 4K",Love Nature 4K
+https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
+#EXTINF:-1 group-title="CGTN Documentary",CGTN Documentary
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+#EXTINF:-1 group-title="",
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="Reuters",Reuters
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8
+#EXTINF:-1 group-title="",
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="",
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="",
+https://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlist/amg00477-samsungelectron-worldpokertour-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="Red Bull TV",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="NHL FAST",NHL FAST
+https://nhl-firetv.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="UFC 24/7",UFC 24/7
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8
+#EXTINF:-1 group-title="China Travel",China Travel
+https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+#EXTINF:-1 group-title="澶х珛鐢佃鍙?http://www.dalitv.com.tw:4568/live/dali/index.m3u8",澶х珛鐢佃鍙?http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+#EXTINF:-1 group-title="鑻忓窞绀句細缁忔祹",鑻忓窞绀句細缁忔祹
+https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+#EXTINF:-1 group-title="鑻忓窞鏂囧寲鐢熸椿",鑻忓窞鏂囧寲鐢熸椿
+https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+#EXTINF:-1 group-title="鑻忓窞鐢靛奖濞变箰",鑻忓窞鐢靛奖濞变箰
+https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+#EXTINF:-1 group-title="鑻忓窞鐢熸椿璧勮",鑻忓窞鐢熸椿璧勮
+https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+#EXTINF:-1 group-title="鑻忓窞4K",鑻忓窞4K
+https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
+#EXTINF:-1 group-title="",
+https://liveout.xntv.tv/a65jur/96iln2.m3u8
+#EXTINF:-1 group-title="娴蜂笢缁煎悎棰戦亾",娴蜂笢缁煎悎棰戦亾
+https://hls-hdapp.hdhhy.cn/ashh-tv/zhds.m3u8?sign=26c873e6e3d94ba02aa78c0fbf326dfd&t=1886228277
+#EXTINF:-1 group-title="Sky Racing 1",Sky Racing 1
+https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
+#EXTINF:-1 group-title="Sky Racing 2",Sky Racing 2
+https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
+#EXTINF:-1 group-title="World of Freesports",World of Freesports
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/1080p-en/index.m3u8
+#EXTINF:-1 group-title="FUEL TV",FUEL TV
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+#EXTINF:-1 group-title="FloRacing",FloRacing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 group-title="SportsGrid",SportsGrid
+https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="ACCDN",ACCDN
+https://raycom-accdn-firetv.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 group-title="Pac-12 Insider",Pac-12 Insider
+https://pac12-firetv.amagi.tv/1080p-en-cc/index.m3u8
+#EXTINF:-1 group-title="Trace Sport Stars",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="beIN Sports Xtra",beIN Sports Xtra
+https://bein-xtra-bein.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="FIFA+",FIFA+
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 group-title="",
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+#EXTINF:-1 group-title="MTRSPT1",MTRSPT1
+https://amg02873-kravemedia-mtrspt1-samsungau-2anp4.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="FashionTV Paris L'Original",FashionTV Paris L'Original
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+#EXTINF:-1 group-title="Global Fashion Channel",Global Fashion Channel
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+#EXTINF:-1 group-title="Qello Concerts",Qello Concerts
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Totalmusic Concerts",Totalmusic Concerts
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 group-title="Wipeout Xtra",Wipeout Xtra
+https://amg00627-banijaygroup-wipeoutxtraau-samsungau-ashbl.amagi.tv/playlist/amg00627-banijaygroup-wipeoutxtraau-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="Graham Norton",Graham Norton
+https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist1080_p.m3u8
+#EXTINF:-1 group-title="Mystery TV",Mystery TV
+https://aenetworks-mysterytv-rakuten.amagi.tv/1080p-vtt/index.m3u8
+#EXTINF:-1 group-title="Estrella TV",Estrella TV
+https://estrellatv-oando.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="MovieSphere",MovieSphere
+https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="Rai Italia",Rai Italia
+https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
+#EXTINF:-1 group-title="Rai World Premium",Rai World Premium
+https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
+#EXTINF:-1 group-title="Mediaset Italia",Mediaset Italia
+https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
+#EXTINF:-1 group-title="History Hit",History Hit
+https://lds-timeline-rakuten.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 group-title="Terra Mater WILD",Terra Mater WILD
+https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
+#EXTINF:-1 group-title="Court TV",Court TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+#EXTINF:-1 group-title="Documentary+",Documentary+
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="InTravel",InTravel
+https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/1080p/index.m3u8
+#EXTINF:-1 group-title="",
+https://ee119c17e6ed643893ff6ae377fe0693.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/NASAPrime/NASAPlus.m3u8
+#EXTINF:-1 group-title="Gusto TV",Gusto TV
+https://dbrb49pjoymg4.cloudfront.net/10001/99991328/hls/playlist.m3u8?ads.xumo_channelId=99991328
+#EXTINF:-1 group-title="NEWS1",NEWS1
+https://server1.streamssl.com/stream/news1_mid.m3u8
+#EXTINF:-1 group-title="France 24 Espa帽ol",France 24 Espa帽ol
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="Thai PBS",Thai PBS
+https://thaipbs-mcx0wm.cdn.byteark.com/vtt-live/playlist.m3u8
+#EXTINF:-1 group-title="Bloomberg TV Asia",Bloomberg TV Asia
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 group-title="Bloomberg TV Europe",Bloomberg TV Europe
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 group-title="Bloomberg TV US",Bloomberg TV US
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 group-title="DW English",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 group-title="TRT World",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Al Jazeera English",Al Jazeera English
+https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
+#EXTINF:-1 group-title="Arirang",Arirang
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
+#EXTINF:-1 group-title="绾潵鏃ユ湰",绾潵鏃ユ湰
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 group-title="绾潵鑲蹭箰",绾潵鑲蹭箰
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 group-title="TVB鏂伴椈",TVB鏂伴椈
+https://cdn6.cc.cd/163189/wxxw
+#EXTINF:-1 group-title="TVB1",TVB1
+https://cdn6.cc.cd/163189/tvb1
+#EXTINF:-1 group-title="TVBJ1",TVBJ1
+https://cdn6.cc.cd/163189/j1
+#EXTINF:-1 group-title="TVBPlus",TVBPlus
+https://cdn3.indevs.in/stream/tvb/tvbp/
+#EXTINF:-1 group-title="HOY TV",HOY TV
+https://cdn.qd.je/163189/hoy
+#EXTINF:-1 group-title="RTHK31",RTHK31
+https://cdn.qd.je/163189/rthk31
+#EXTINF:-1 group-title="RTHK32",RTHK32
+https://cdn.qd.je/163189/rthk32
+#EXTINF:-1 group-title="缈＄繝鍙?K",缈＄繝鍙?K
+https://cdn3.indevs.in/stream/tvb/fct4k/
+#EXTINF:-1 group-title="鍑ゅ嚢涓枃",鍑ゅ嚢涓枃
+http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
+#EXTINF:-1 group-title="鍑ゅ嚢璧勮",鍑ゅ嚢璧勮
+http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
+#EXTINF:-1 group-title="鍑ゅ嚢棣欐腐",鍑ゅ嚢棣欐腐
+https://cdn.qd.je/163189/fhhk
+#EXTINF:-1 group-title="婢宠婢抽棬",婢宠婢抽棬
+https://cdn.qd.je/163189/asam
+#EXTINF:-1 group-title="婢宠鍗槦",婢宠鍗槦
+https://cdn.qd.je/163189/as
+#EXTINF:-1 group-title="婢抽棬浣撹偛",婢抽棬浣撹偛
+https://cdn.qd.je/163189/amty
+#EXTINF:-1 group-title="婢抽棬缁艰壓",婢抽棬缁艰壓
+https://cdn.qd.je/163189/amzy
+#EXTINF:-1 group-title="婢抽棬鑾茶姳",婢抽棬鑾茶姳
+https://cdn.qd.je/163189/amlh
+#EXTINF:-1 group-title="CH5",CH5
+https://cdn.qd.je/163189/ch5
+#EXTINF:-1 group-title="CH8",CH8
+https://cdn.qd.je/163189/ch8
+#EXTINF:-1 group-title="CHU",CHU
+https://cdn.qd.je/163189/chu
+#EXTINF:-1 group-title="Astro AOD",Astro AOD
+https://cdn.qd.je/163189/aod
+#EXTINF:-1 group-title="Astro AOD",Astro AOD
+https://cdn3.indevs.in/stream/live/aod/
+#EXTINF:-1 group-title="Astro AEC",Astro AEC
+https://cdn3.indevs.in/stream/live/aec/
+#EXTINF:-1 group-title="TVB鏄熸渤",TVB鏄熸渤
+https://cdn6.cc.cd/163189/tvbxh
+#EXTINF:-1 group-title="TVB鏄熸渤",TVB鏄熸渤
+https://cdn3.indevs.in/stream/live/tvbxh/
+#EXTINF:-1 group-title="TVB浜氭床姝︿緺",TVB浜氭床姝︿緺
+https://cdn6.cc.cd/163189/yzwx
+#EXTINF:-1 group-title="閲嶆俯缁忓吀",閲嶆俯缁忓吀
+https://cdn.qd.je/163189/cwjd
+#EXTINF:-1 group-title="榫欏崕鐢靛奖",榫欏崕鐢靛奖
+https://cdn.qd.je/163189/lhdy
+#EXTINF:-1 group-title="榫欏崕缁忓吀",榫欏崕缁忓吀
+https://cdn.qd.je/163189/lhjd
+#EXTINF:-1 group-title="榫欏崕鍋跺儚",榫欏崕鍋跺儚
+https://cdn.qd.je/163189/lhox
+#EXTINF:-1 group-title="榫欏崕鏃ラ煩",榫欏崕鏃ラ煩
+https://cdn.qd.je/163189/lhrh
+#EXTINF:-1 group-title="榫欏崕鎴忓墽",榫欏崕鎴忓墽
+https://cdn.qd.je/163189/lhxj
+#EXTINF:-1 group-title="榫欏崕娲嬬墖",榫欏崕娲嬬墖
+https://cdn.qd.je/163189/lhyp
+#EXTINF:-1 group-title="澶╂槧棰戦亾",澶╂槧棰戦亾
+https://cdn.qd.je/163189/typd
+#EXTINF:-1 group-title="澶╂槧棰戦亾",澶╂槧棰戦亾
+https://cdn3.indevs.in/stream/live/typd/
+#EXTINF:-1 group-title="澶╂槧缁忓吀",澶╂槧缁忓吀
+https://cdn3.indevs.in/stream/live/ccm/
